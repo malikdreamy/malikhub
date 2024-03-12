@@ -43,6 +43,12 @@ iOs and Android App Coming Soon!
 
  <img width="335" alt="Screen Shot 2024-03-12 at 1 46 12 AM" src="https://github.com/malikdreamy/malikhub/assets/119153047/46813fa7-7ac6-43d4-863f-a71bef72adf5">
 
+    Secure Check-Out With Stripe
+ 
+<img width="1267" alt="Screen Shot 2024-03-12 at 1 59 47 AM" src="https://github.com/malikdreamy/malikhub/assets/119153047/c07b91fd-70b2-4013-8641-78538871323f">
+
+
+    
 
 
 
