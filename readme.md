@@ -30,6 +30,10 @@ iOs and Android App Coming Soon!
  <img width="352" alt="Screen Shot 2024-03-12 at 1 44 49 AM" src="https://github.com/malikdreamy/malikhub/assets/119153047/a2ad2bd2-6b6f-4543-bd74-d4fe30df991e">
 
     Send and Receive Offers
+    
+<img width="328" alt="Screen Shot 2024-03-12 at 1 57 45 AM" src="https://github.com/malikdreamy/malikhub/assets/119153047/53aedd12-432d-4da1-9d02-e5fa6947c57e">
+
+
 
 
  <img width="333" alt="Screen Shot 2024-03-12 at 1 45 33 AM" src="https://github.com/malikdreamy/malikhub/assets/119153047/93f3858d-5c79-464b-b9b3-d6a308c60219">
