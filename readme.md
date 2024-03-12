@@ -37,7 +37,7 @@ iOs and Android App Coming Soon!
  <img width="332" alt="Screen Shot 2024-03-12 at 1 45 40 AM" src="https://github.com/malikdreamy/malikhub/assets/119153047/9ba9fe2a-0615-4af1-82ba-5fa26c9c24bd">
 
 
-    Generate Affiliate Links On Other Users Products. If They Buy Using this Link You Get Paid!
+    Generate Affiliate Links On Other Users Products. If Any Customer Buys Using this Link You Get Paid!
 
 
  <img width="335" alt="Screen Shot 2024-03-12 at 1 46 12 AM" src="https://github.com/malikdreamy/malikhub/assets/119153047/46813fa7-7ac6-43d4-863f-a71bef72adf5">
