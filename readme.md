@@ -1,6 +1,6 @@
 WWW.MALIKHUB.COM
 
-Created 100% by Malik Tornes.
+Created, Designed & Launched 100% by Malik Tornes.
 
 "Welcome to Malik Hub, your ultimate destination for seamless buying, selling, and earning opportunities! With our innovative app, users can explore a vibrant marketplace where they can effortlessly browse and purchase a diverse range of products, from fashion to electronics and beyond.
 
