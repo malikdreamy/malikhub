@@ -15,6 +15,10 @@ iOs and Android App Coming Soon!
 
   <img width="354" alt="Screen Shot 2024-03-12 at 1 44 01 AM" src="https://github.com/malikdreamy/malikhub/assets/119153047/7cb91d32-f73d-4e3e-aff4-d617ecbcf3df">
 
+  Our Algorithm is trained to display products you are most likely interested in
+
+  <img width="333" alt="Screen Shot 2024-03-12 at 2 13 07 AM" src="https://github.com/malikdreamy/malikhub/assets/119153047/59fe1a18-7c04-4844-9285-2f634182d043">
+
     Navigation Bar
 
  <img width="354" alt="Screen Shot 2024-03-12 at 1 44 10 AM" src="https://github.com/malikdreamy/malikhub/assets/119153047/02e5281c-68bd-451e-a26f-fca3f0d5a523">
