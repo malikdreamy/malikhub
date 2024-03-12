@@ -33,9 +33,6 @@ iOs and Android App Coming Soon!
     
 <img width="328" alt="Screen Shot 2024-03-12 at 1 57 45 AM" src="https://github.com/malikdreamy/malikhub/assets/119153047/53aedd12-432d-4da1-9d02-e5fa6947c57e">
 
-
-
-
  <img width="333" alt="Screen Shot 2024-03-12 at 1 45 33 AM" src="https://github.com/malikdreamy/malikhub/assets/119153047/93f3858d-5c79-464b-b9b3-d6a308c60219">
 
  <img width="332" alt="Screen Shot 2024-03-12 at 1 45 40 AM" src="https://github.com/malikdreamy/malikhub/assets/119153047/9ba9fe2a-0615-4af1-82ba-5fa26c9c24bd">
