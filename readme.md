@@ -51,6 +51,10 @@ iOs and Android App Coming Soon!
         
 <img width="333" alt="Screen Shot 2024-03-12 at 2 06 40 AM" src="https://github.com/malikdreamy/malikhub/assets/119153047/93eaad8a-033b-4f07-9412-0cfc0c8f46c1">
 
+        Check Your Notifications To Stay Up To Date With Sales and other Activity
+        
+<img width="338" alt="Screen Shot 2024-03-12 at 2 10 51 AM" src="https://github.com/malikdreamy/malikhub/assets/119153047/d91d35fc-9776-4c2f-9ca9-31621439b685">
+
 
 
     
