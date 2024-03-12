@@ -47,6 +47,11 @@ iOs and Android App Coming Soon!
  
 <img width="1267" alt="Screen Shot 2024-03-12 at 1 59 47 AM" src="https://github.com/malikdreamy/malikhub/assets/119153047/c07b91fd-70b2-4013-8641-78538871323f">
 
+        Send and recieve real time messages using websockets
+        
+<img width="333" alt="Screen Shot 2024-03-12 at 2 06 40 AM" src="https://github.com/malikdreamy/malikhub/assets/119153047/93eaad8a-033b-4f07-9412-0cfc0c8f46c1">
+
+
 
     
 
