@@ -8,10 +8,12 @@ But that's not all – at Malik Hub, we empower users to become entrepreneurs by
 
 Whether you're looking to snag the latest fashion trends, upgrade your tech gadgets, or kickstart your side hustle, Malik Hub has you covered. Join our community today and experience the convenience of shopping, selling, and earning all in one place!"
 
+iOs and Android App Coming Soon!
 
-HOMEPAGE
 
-<img width="354" alt="Screen Shot 2024-03-12 at 1 44 01 AM" src="https://github.com/malikdreamy/malikhub/assets/119153047/7cb91d32-f73d-4e3e-aff4-d617ecbcf3df">
+    HOMEPAGE
+
+  <img width="354" alt="Screen Shot 2024-03-12 at 1 44 01 AM" src="https://github.com/malikdreamy/malikhub/assets/119153047/7cb91d32-f73d-4e3e-aff4-d617ecbcf3df">
 
 Navigation Bar
 
