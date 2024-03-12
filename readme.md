@@ -10,6 +10,7 @@ Whether you're looking to snag the latest fashion trends, upgrade your tech gadg
 
 
 HOMEPAGE
+
 <img width="354" alt="Screen Shot 2024-03-12 at 1 44 01 AM" src="https://github.com/malikdreamy/malikhub/assets/119153047/7cb91d32-f73d-4e3e-aff4-d617ecbcf3df">
 
 <img width="354" alt="Screen Shot 2024-03-12 at 1 44 10 AM" src="https://github.com/malikdreamy/malikhub/assets/119153047/02e5281c-68bd-451e-a26f-fca3f0d5a523">
